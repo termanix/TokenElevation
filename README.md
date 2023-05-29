@@ -7,6 +7,8 @@ Finally, it creates a new process with the duplicated token, effectively spawnin
 If you have local Administrator access on a host computer in an Active Directory environment, 
 you can impersonate the SYSTEM privileges on that machine or assume the identity of an authorized domain user if available.
 
+Tested on: Windows 10 and Windows 11
+
 Usage: ```ProcessMigration.exe <target_PID>```
 
 ![image](https://github.com/termanix/ProcessMigration/assets/50464194/177efa88-4437-44e9-bd99-844b7cd5c453)
