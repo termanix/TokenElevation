@@ -9,6 +9,8 @@ you can impersonate the SYSTEM privileges on that machine or assume the identity
 
 Tested on: Windows 10 and Windows 11
 
+Don't forget to Run as Administrator cmd or powershell
+
 Usage: ```TokenElevation.exe <target_PID>```
 
 ![image](https://github.com/termanix/TokenElevation/assets/50464194/e822eee9-9325-44d5-a7fb-e3e08d14d218)
