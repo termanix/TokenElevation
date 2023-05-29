@@ -9,6 +9,8 @@ you can impersonate the SYSTEM privileges on that machine or assume the identity
 
 Usage: ```ProcessMigration.exe <target_PID>```
 
+![image](https://github.com/termanix/ProcessMigration/assets/50464194/177efa88-4437-44e9-bd99-844b7cd5c453)
+
 The main steps of the code are as follows:
 - Check the command-line arguments to ensure a PID is provided.
 - Open the current process token to adjust privileges.
