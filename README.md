@@ -9,9 +9,9 @@ you can impersonate the SYSTEM privileges on that machine or assume the identity
 
 Tested on: Windows 10 and Windows 11
 
-Usage: ```ProcessMigration.exe <target_PID>```
+Usage: ```TokenElevation.exe <target_PID>```
 
-![image](https://github.com/termanix/ProcessMigration/assets/50464194/177efa88-4437-44e9-bd99-844b7cd5c453)
+![image](https://github.com/termanix/TokenElevation/assets/50464194/e822eee9-9325-44d5-a7fb-e3e08d14d218)
 
 The main steps of the code are as follows:
 - Check the command-line arguments to ensure a PID is provided.
